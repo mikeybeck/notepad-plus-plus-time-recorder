@@ -9,9 +9,9 @@ Install this script and assign a key to it (I like to use F5).
 ####The 'timer'
 
 To start the 'timer', open a blank text file (or any file really) and press F5.  You should see something similar to the following:
-
+<pre>
 10/05/2015 08:15PM *In progress* 
-
+</pre>
 To stop the 'timer', ensure the same line is selected, then press F5 again.  You should see something like this:
 
 10/05/2015 08:15PM - 08:35PM (0:20) 
